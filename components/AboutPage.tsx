@@ -33,7 +33,7 @@ const AboutPage: React.FC = () => {
                 {/* Text Column */}
                 <div className="md:col-span-8 space-y-4 text-slate-300 text-base sm:text-lg">
                     <p>
-                        Hello! I’m Nirmal Bhakuni, a passionate B.Tech student with a strong interest in software development, algorithms, and problem-solving. I love transforming ideas into real-world applications through clean and efficient code.
+                        Hello!1 I’m Nirmal Bhakuni, a passionate B.Tech student with a strong interest in software development, algorithms, and problem-solving. I love transforming ideas into real-world applications through clean and efficient code.
                     </p>
                     <p>
                         Throughout my academic journey, I’ve maintained excellent performance, scoring 96.2% in high school and 95.5% in intermediate, while actively participating in quiz competitions and chess championships.
