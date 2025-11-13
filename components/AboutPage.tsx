@@ -1,5 +1,5 @@
 import React from 'react';
-import { PROFILE_PHOTO } from '../assets/photo';
+import profileImg from './Profile.jpeg';
 
 const AboutPage: React.FC = () => {
     const skills = {
@@ -24,7 +24,7 @@ const AboutPage: React.FC = () => {
                 {/* Image Column */}
                 <div className="md:col-span-4 flex justify-center">
                     <img
-                        src={PROFILE_PHOTO}
+                        src={profileImg}
                         alt="Nirmal Bhakuni"
                         className="rounded-full w-52 h-52 sm:w-64 sm:h-64 object-cover border-4 border-cyan-500/30 shadow-lg"
                     />
